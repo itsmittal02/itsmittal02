@@ -1,5 +1,5 @@
 ### Hi there 👋
-HELLO 👋 , I'm Sharad Mittal
+  I'm Sharad Mittal
 
 
 
