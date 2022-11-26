@@ -22,7 +22,7 @@ Back-End :: PHP, MYSQL, JSP, SERVLET, ADV.PHP;
 DATA STRUCTURE AND ALGORITHM
 
 
-💞️Linkdin :https://www.linkedin.com/in/sharad-mittal-0376b61b5/
+💞️Linkedin :https://www.linkedin.com/in/sharad-mittal-0376b61b5/
 
 
 
