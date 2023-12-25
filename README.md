@@ -25,8 +25,6 @@ DATA STRUCTURE AND ALGORITHM
 💞️Linkedin :https://www.linkedin.com/in/sharad-mittal-0376b61b5/
 
 
-Portfolio Website: https://sharadmittal.in/ 
-
 📫 How to reach me : mittalsharad02@gmail.com 
 
 <!--
