@@ -1,44 +1,28 @@
-### Hi there 👋
-  I'm Sharad Mittal
+👋 Hi, I'm Sharad Mittal
+Data Analyst | IT Engineer | Computer Science Graduate
+
+Welcome to my GitHub profile!
+I am a passionate Data Analyst with a strong foundation in statistical analysis, data visualization, database management and hands-on experience in SQL, Power BI, Python, Excel.
+I enjoy transforming raw data into meaningful insights that support business decisions. Eger to leverage technical skills and analytical mindset to solve real world business problems and contribute to the success of a forward thinking organization. Experience: Data Analyst Trainee    
 
 
+ 🔍 About Me
+
+🎓 B.Tech in Computer Science from Government Engineering College, Bikaner
+
+💼 Currently working as an IT Engineer (Data Center & Network Infrastructure)
+
+📊 Skilled in Data Analysis, SQL querying, Dashboard Development, and Reporting
+
+💡 Interested in solving real-world problems through data-driven insights
+
+🚀 Constantly learning and working on analytics projects, dashboards, and automation
 
 
-I am a b.tech student currently pursuing my graduation degree in computer science and Engineering from Engineering College Bikaner . 
-My goal is to become an accomplished professional by utilizing my skills to add values to the organization. Always eager to learn new technology to make me more efficient and effective in my work.
+ 🛠️ Technical Skills
 
-
-
-Programing Language :: C , C++ ,Java ;
-
-
-
-
-Front-End :: HTML,  CSS, JAVASCRIPT , BOOTSTRAP , JQUERY;
-
-Back-End :: PHP, MYSQL, JSP, SERVLET, ADV.PHP;
-
-
-DATA STRUCTURE AND ALGORITHM
-
-
-💞️Linkedin :https://www.linkedin.com/in/sharad-mittal-0376b61b5/
-
-
-📫 How to reach me : mittalsharad02@gmail.com 
-
-<!--
-**itsmittal02/itsmittal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+    Languages: Python, SQL, C, C++
+    Analytics Tools: Power BI (DAX, Data Modeling), Excel (PivotTables, XLOOKUP, Power Query)
+    Database: MySQL, SQL Server
+    Visualization: Power BI, Matplotlib, Seaborn
+    Others: HTML, CSS, Jupyter Notebook, Git
