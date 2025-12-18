@@ -21,8 +21,7 @@ I enjoy transforming raw data into meaningful insights that support business dec
 
  🛠️ Technical Skills
 
-    Languages: Python, SQL, C, C++
-    Analytics Tools: Power BI (DAX, Data Modeling), Excel (PivotTables, XLOOKUP, Power Query)
-    Database: MySQL, SQL Server
-    Visualization: Power BI, Matplotlib, Seaborn
-    Others: HTML, CSS, Jupyter Notebook, Git
+    Technical Skills: Python (NumPy, Pandas, Matplotlib, Seaborn, Beautiful Soup, NLTK, SpaCy, TextBlob),Tableau, Power BI, Advanced Excel, SQL,HTML, CSS
+    Analytical Skills: Data Gathering, Data Cleaning and Preprocessing, Analytics, Data Analysis and Reporting, Exploratory Data Analysis (EDA), ETL (Extract, Transform, Load), Data Visualization, Data Modeling,
+                       Descriptive and Inferential Statistical Analysis, Web Scraping, Machine Learning and AI, Visualization, DAX(Data Analyst Expressions), Real Time Data Analysis and Database Management
+    Soft Skills: Problem Solving, Team Work, Leadership, Adaptability, Communication
